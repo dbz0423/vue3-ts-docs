@@ -26,6 +26,18 @@ export default defineConfig({
           items: [
             { text: "第一周前端学习", link: "/study-front/前端第一周学习" },
             { text: "第二周前端学习", link: "/study-front/前端第二周学习" },
+            {
+              text: "前端第六周学习--VitePress 站点搭建 实施步骤",
+              link: "/study-front/前端第六周学习--VitePress 站点搭建 实施步骤",
+            },
+            {
+              text: "前端第九周学习--网络请求Axios",
+              link: "/study-front/前端第九周学习--网络请求Axios",
+            },
+            {
+              text: "前端第十周学习--代码规范",
+              link: "/study-front/前端第十周学习--代码规范",
+            },
           ],
         },
       ],
