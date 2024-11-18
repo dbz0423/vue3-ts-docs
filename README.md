@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://dbz0423.oss-cn-nanjing.aliyuncs.com/logo.jpg?Expires=1730575075&OSSAccessKeyId=TMP.3KfvreWbtEeHsHQTZp7s6WmYCrLRt9DQFvWn9U4JSrPeeR3dGJsBGKjYJQFcE9DU1QvSgxSxw6fGjDXftisUkoPycyR7Jw&Signature=isae6IfRgyKdjfFiRA2bLfkVMgY%3D" style="width:200px;"/>
+<img src="https://dbz0423.oss-cn-nanjing.aliyuncs.com/logo.jpg" style="width:200px;"/>
 </p>
 <h1 align="center">Vue 3 && SpringBoot 学习文档</h1>
 <p align="center">
