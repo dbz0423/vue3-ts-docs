@@ -4,8 +4,8 @@ layout: home
 
 title: "潜龙在渊"
 hero:
-  name: "Vue-Myself"
-  text: "Vue 自我学习"
+  name: "Vue && SpringBoot -Myself"
+  text: "Vue && SpringBoot 自我学习"
   image:
     src: /assets/logo.png
   tagline: 教你如何快速学习 Vue
@@ -21,6 +21,9 @@ features:
   - title: Vue 合集
     icon: 🆕
     details: 快来看看传说中的绝世 VUE 武功秘籍
+  - title: SpringBoot 合集
+    icon: 🆕
+    details: 再来看看传说中的绝世 SpringBoot 武功秘籍
   - title: 第一式
     icon: 🕛
     details: 秘籍第一招
@@ -39,5 +42,5 @@ features:
 ---
 
 <div style="text-align: center; margin-top: 50px;">
-    <em>🔥早日成为 Vue 糕手</em>
+    <em>🔥早日成为 Vue && SpringBoot 糕手</em>
 </div>

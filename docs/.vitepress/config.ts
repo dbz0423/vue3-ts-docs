@@ -74,7 +74,7 @@ export default defineConfig({
       ],
     },
     footer: {
-      message: "认真学习Vue武功秘籍",
+      message: "认真学习Vue && SpringBoot武功秘籍",
       copyright: "Copyright © 2024 朱浩然",
     },
   },
